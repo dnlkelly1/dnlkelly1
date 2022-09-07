@@ -1,4 +1,4 @@
-Hey there 👋
+Hey 👋
 
 I’m Daniel, a lecturer in computer science and researcher in machine learning at Ulster University.
 
